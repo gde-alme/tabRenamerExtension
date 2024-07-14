@@ -1,0 +1,31 @@
+{
+    "manifest_version": 2,
+    "name": "Change Tab Title",
+    "version": "0.1",
+    "description": "An extension to change tab titles.",
+    "permissions": [
+        "tabs",
+        "storage",
+        "contextMenus",
+        "<all_urls>"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "browser_action": {
+        "default_icon": "icon_42.png",
+        "default_popup": "popup.html"
+    }
+}

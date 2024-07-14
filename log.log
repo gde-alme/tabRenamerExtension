@@ -1,0 +1,4 @@
+v0.1: Initial release
+    • Edit a tabs name using html injected modal
+    • Edit current tab name using default extension popup
+    • Keep track of saved tabs names (& persist them on tab reload)
