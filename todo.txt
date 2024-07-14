@@ -1,6 +1,4 @@
-Add translations => ['Portuguese'];
-
-Add extension to ff addons lib
+Fix origin renaming doc title (or override it)
 
 Extend user options on save tab name. =>
                                         When to store tab name? 
@@ -9,3 +7,7 @@ Extend user options on save tab name. =>
                                         Store tab*href to allow multiple tab names per origin
 
 Extend html layout to handle color schemes (ie: dark mode)
+
+Add extension to ff addons lib
+
+Add translations => ['Portuguese'];
