@@ -1,3 +1,11 @@
 Add translations => ['Portuguese'];
+
 Add extension to ff addons lib
-Extend user options on save tab name. => When to store tab name? Untill when? Reset tab name?
+
+Extend user options on save tab name. =>
+                                        When to store tab name? 
+                                        Untill when?
+                                        Reset tab name?
+                                        Store tab*href to allow multiple tab names per origin
+
+Extend html layout to handle color schemes (ie: dark mode)
