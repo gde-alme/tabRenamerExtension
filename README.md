@@ -29,5 +29,5 @@ A simple and useful Firefox add-on to rename tabs.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
 You are free to use, edit, and distribute this software.
